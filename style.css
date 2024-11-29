@@ -1,0 +1,303 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+   
+}
+.firstcontainer{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color:rgb(0, 123, 255);
+    padding-top:1200px;
+    padding-bottom:1700px;
+   display: flex;
+    
+}
+.paragraph{
+   
+    position: relative;
+    margin-top: 10px;
+    bottom:1100px;
+    padding-left: 30px;
+    color: white;
+
+}
+.paragraph p{
+    font-size: 14px;
+}
+.paragraph h2{
+    padding-left: 40px;
+}
+#pa {
+    position: relative;
+    top:150px;
+    font-size:25px ;
+   
+}
+.container{
+   position:relative;
+    width:100%;
+    height:100%;
+  
+    background-color: #fff;
+   
+    box-shadow:0 0 30px rgba(0, 0, 0, .2);
+}
+img{
+    height: 60px;
+    width: 180px;
+    position: relative;
+    right: 100px;
+    top:40px;
+}
+h6{
+    position: relative;
+    right:7%;
+}
+p{
+    font-size:medium;
+    position: relative;
+    margin-top: 10px;
+    right: 3%;
+}
+.content{
+    position: relative;
+    left:4%
+}
+form{
+    width:100%;
+}
+.login{
+    position:relative;
+    width:100%;
+     height:100%;
+     background: white;
+     display: flex;
+     align-items: center;
+     color:#333;
+     text-align:center;
+     padding-bottom:2500px;    
+}
+.container{
+    font-size:36px;
+    margin:-10px 0;
+}
+.input-box{
+    position: relative;
+    margin: 30px;
+}
+.input-box input{
+    width:60%;
+    padding:13px;
+    background: #eee;
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, 0.073);
+    outline:none;
+    font-size: 16px;
+   background:white;
+    font-weight: 500;   
+}
+.input-box input::placeholder{
+   
+    font-weight: 400;
+}
+.input-box a {
+font-size: 14.5px;
+color:#333;
+text-decoration: none;
+}
+label{
+    font-size:small;
+    position: relative;
+    right: 70px;
+}
+#password1{
+    position: relative;
+    bottom:30px;   
+    
+}
+#a{
+    position: relative;
+    bottom:30px;
+    
+}
+#pass{
+    position: relative;
+    bottom:30px;  
+}
+.email{
+    position: relative;
+    right: 150px;
+}
+.btn{
+    position: relative;
+    margin: 30px;
+    bottom: 40px;
+}
+.btn{
+    width:55%;
+    height:48px;
+    background: rgba(0, 128, 255, 0.854);
+    border-radius:5px;
+    box-shadow:0 0 10px rgba(0,0,0,.1);
+    border: none;
+    cursor:pointer;
+    font-size:16px;
+    color:#fff;
+    font-weight:600;
+}
+.btn1{
+    width:55%;
+    padding:13px;
+    background: #eee;
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, 0.073);
+    outline:none;
+    font-size: 16px;
+   background:white;
+    font-weight: 500;
+    position:relative;
+    bottom:40px;
+}
+.p{
+    font-size: medium;
+    display: inline;
+    margin: 5px;
+    position: relative;
+    bottom:40px;
+    left:12px;
+}
+.a{
+    
+    position: relative;
+    right:2px;
+    font-size: 14.5px;
+    color: rgba(0, 128, 255, 0.854);
+    text-decoration: none; 
+    bottom:40px;  
+}
+
+.img1{
+position: relative;
+top:15px
+}
+
+h3{
+    position: relative;
+    right:10%;
+}
+
+#password{
+    position: relative;
+    top:5px;
+}
+#labelpass{
+   right:135px 
+}
+#labelname{
+    position: relative;
+    right:40%;
+}
+#company{
+    position: relative;
+    right:40%;
+}
+.box{
+    display: inline;
+    
+}
+#check{
+    position: relative;
+    left:30px ;
+}
+#checkpara{
+    position: relative;
+    left:30px ; 
+}
+.box1{
+    display: inline;   
+}
+#check2{
+    position: relative;
+    right:48px;
+}
+#checkpara2{
+    position: relative;
+    right:45px;
+}
+.log{
+     
+    position: relative;
+    left:15px;
+    font-size: 14.5px;
+    color: rgba(0, 128, 255, 0.854);
+    text-decoration: none; 
+    bottom:60px;  
+}
+#signupdiv{
+    position: relative;
+    left:300px
+}
+#firstdiv{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color:rgb(0, 123, 255);
+  right:150px;
+  padding-right: 20px; 
+  bottom: 130px;
+}
+#heading{
+    position: relative;
+    left: 200px;
+    top: 80px;
+}
+#insidepara{
+    position: relative;
+    left: 135px;  
+    right: 25px;
+    font-size:15px;
+    top:80px
+
+}
+.signpara{
+    position: relative;
+    left: 130px;
+  padding-right:120px;
+}
+#register{
+    position: relative;
+    right:380px
+}
+#inputtext{
+    position: relative;
+    width: 100%;
+}
+#inputtext2{
+    position: relative;
+    width: 100%;
+}
+
+#inputtext3{
+    position: relative;
+    width: 100%;
+}
+
+#password{
+    position: relative;
+    width: 100%;
+}
+
+
+
+
+
+
